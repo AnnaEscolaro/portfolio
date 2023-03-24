@@ -1,0 +1,32 @@
+body {
+    background-color: #4BC6B9;
+}
+
+#anna {
+    color: #B57BA6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+       #descricao {
+    
+    color: #B57BA6;
+    font-family: sans-serif;
+}
+
+li {
+    color: #B57BA6;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+.hab1 {
+    font-size: 1.2em;
+}
+
+.hab2 {
+    font-size: 1.4em;            
+}
+
+.hab3 {
+    font-size: 1.6em;
+}
