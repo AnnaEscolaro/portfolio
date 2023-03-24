@@ -3,13 +3,18 @@ body {
 }
 
 #anna {
-    color: #B57BA6;
+    color: #4BC6B9;
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
 }
 
-       #descricao {
+#nome {
+    margin-bottom: 0;
+}
+
+#descricao {
     
-    color: #B57BA6;
+    color: #4BC6B9;
     font-family: sans-serif;
 }
 
@@ -29,4 +34,38 @@ li {
 
 .hab3 {
     font-size: 1.6em;
+}
+
+#sobre-mim {
+    position: absolute;
+    top: 500px;
+    left: 315px;
+    padding: 1%;
+    background-color: #B57BA6;
+}
+
+#descricao {
+    position: absolute;
+    top: 550px;
+    left: 315px;
+    padding: 1%;
+    background-color: #B57BA6;
+}
+
+#nome, #anna {
+    text-align: center;
+    padding: 0.5%;
+    background-color: #B57BA6;
+    width: 15%
+}
+
+img {
+    padding: 2%;
+    background-color: #B57BA6;
+}
+
+.impar {
+    padding: 2%;
+    background-color: black;
+    width: 70%
 }
